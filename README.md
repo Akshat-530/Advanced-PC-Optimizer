@@ -1,12 +1,12 @@
 
-# Advanced PC Optimizer v2.0
+# Advanced PC Optimizer
 **Created by: AKSHAT_530**  
 
 ---
 
 ## 🚀 Overview
 
-Welcome to **Advanced PC Optimizer v2.0**, a powerful PowerShell script designed to enhance your Windows PC's performance! This tool offers a suite of cleanup, maintenance, reporting, and tweaking functions to keep your system running smoothly. From clearing temporary files to toggling system settings, this script is your all-in-one solution for PC optimization.
+Welcome to **Advanced PC Optimizer**, a powerful PowerShell script designed to enhance your Windows PC's performance! This tool offers a suite of cleanup, maintenance, reporting, and tweaking functions to keep your system running smoothly. From clearing temporary files to toggling system settings, this script is your all-in-one solution for PC optimization.
 
 ---
 
@@ -64,5 +64,5 @@ Love this project? Support the developer!
 - **Link:** [https://linktr.ee/Akshat_530](https://linktr.ee/Akshat_530)
 ---
 
-**Thank you for using Advanced PC Optimizer v2.0!**  
+**Thank you for using Advanced PC Optimizer!**  
 Built with ❤️ by AKSHAT_530
