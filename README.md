@@ -1,9 +1,6 @@
 
 # Advanced PC Optimizer v2.0
-
-![Banner](https://via.placeholder.com/1200x300.png?text=Advanced+PC+Optimizer+v2.0)  
 **Created by: AKSHAT_530**  
-**Link:** [https://linktr.ee/Akshat_530](https://linktr.ee/Akshat_530)  
 
 ---
 
@@ -43,19 +40,13 @@ Welcome to **Advanced PC Optimizer v2.0**, a powerful PowerShell script designed
 
 ## 🛠️ Usage
 
-1. **Prerequisites**:
-   - Windows 10 or 11.
-   - Run PowerShell as Administrator for full functionality.
-   - Ensure `winget` is installed for app updates.
-   - Optional: Run `cleanmgr /sageset:1` to configure Disk Cleanup settings.
-
-2. **How to Run**:
+1. **How to Run**:
    - Download the script from this repository.
-   - Right-click the `.ps1` file and select **Run with PowerShell as Administrator**.
-   - Follow the interactive menu by entering numbers (0-18) to select options.
+   - Right-click the `START.bat` file and select **Run with as Administrator**.
+   - Follow the interactive menu by entering numbers to select options.
    - Confirm actions (Y/N) for potentially disruptive operations.
 
-3. **Warnings**:
+2. **Warnings**:
    - Close browsers before clearing cache to avoid file access issues.
    - Network reset may disrupt active connections.
    - Disabling Windows Update or telemetry may impact security or features.
