@@ -10,6 +10,15 @@ Welcome to **Advanced PC Optimizer**, a powerful PowerShell script designed to e
 
 ---
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a416c20e-e0d6-46ae-b6c0-83d0dee68ca7" 
+       alt="Screenshot 2025-06-04 030006" 
+       width="700" 
+       height="600">
+</div>
+
+---
+
 ## ✨ Features
 
 ### 🧹 Cleanup Tools
